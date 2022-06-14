@@ -1,0 +1,16 @@
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.exe
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.deps.json
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.runtimeconfig.json
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.runtimeconfig.dev.json
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.dll
+C:\Users\dabda\source\repos\Budeo\Budeo\bin\Debug\net5.0\Budeo.pdb
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.csproj.AssemblyReference.cache
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.AssemblyInfoInputs.cache
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.AssemblyInfo.cs
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.csproj.CoreCompileInputs.cache
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.dll
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\refint\Budeo.dll
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.pdb
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\Budeo.genruntimeconfig.cache
+C:\Users\dabda\source\repos\Budeo\Budeo\obj\Debug\net5.0\ref\Budeo.dll
